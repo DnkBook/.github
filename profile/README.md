@@ -5,3 +5,4 @@
 - Dnk 历史记录[dnkFuns](https://github.com/DnkBook/dnkFuns)
 
 [![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
